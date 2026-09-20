@@ -1,0 +1,9 @@
+{
+  "name": "middleman-site",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "install": "bundle install",
+    "build": "bundle exec middleman build"
+  }
+}
